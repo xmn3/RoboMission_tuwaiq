@@ -8,7 +8,7 @@
       <a href="https://github.com/حساب_فيصل">@xmn3</a>
     </td>
     <td align="center">
-      <img src="team photos/زياد خالد الشهراني.pdf" width="150" style="border-radius: 50%;"><br>
+      <img src="team photos/زياد خالد الشهراني.jpg" width="150" style="border-radius: 50%;"><br>
       <b>زياد خالد الشهراني</b><br>
       <a href="https://github.com/حساب_زياد">@ZiadShahrani</a>
     </td>
