@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="team-photos/faisal_alharf.jpg" width="150" style="border-radius: 50%;"><br>
+      <img src="team%20photos/فيصل%20بن%20فلاح%20الهرف.JPG" width="150" height="150" style="border-radius: 50%; object-fit: cover;"><br>
       <b>فيصل فلاح الهرف</b><br>
       <a href="https://github.com/xmn3">@xmn3</a><br><br>
       <b>العمر:</b> [عمرك] سنة<br>
@@ -11,7 +11,7 @@
       <b>الخبرات:</b> مهتم ببرمجة الروبوتات بلغة C++، وتطوير الخوارزميات لحل المشكلات بدقة وكفاءة.
     </td>
     <td align="center" width="50%">
-      <img src="team-photos/ziad_alshahrani.jpg" width="150" style="border-radius: 50%;"><br>
+      <img src="team%20photos/زياد%20خالد%20الشهراني.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;"><br>
       <b>زياد خالد الشهراني</b><br>
       <a href="https://github.com/zeyad-khalid-alshahrani">@zeyad-khalid-alshahrani</a><br><br>
       <b>العمر:</b> [عمر زياد] سنة<br>
