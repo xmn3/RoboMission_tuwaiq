@@ -10,7 +10,7 @@
     <td align="center">
       <img src="team photos/زياد خالد الشهراني.jpg" width="150" style="border-radius: 50%;"><br>
       <b>زياد خالد الشهراني</b><br>
-      <a href="https://github.com/حساب_زياد">@ZiadShahrani</a>
+      <a href="https://github.com/حساب_زياد">@zeyad-khalid-alshahrani</a>
     </td>
   </tr>
 </table>
