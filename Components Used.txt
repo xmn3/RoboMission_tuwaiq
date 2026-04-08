@@ -1,0 +1,11 @@
+Microcontroller (e.g., Arduino / mBot Controller)
+DC Motors
+Motor Driver
+Ultrasonic Sensor
+Line Follower Sensor
+IR Sensor
+Wheels and Chassis
+Battery Pack
+Jumper Wires
+Breadboard (if used)
+Screws and Mechanical Parts
