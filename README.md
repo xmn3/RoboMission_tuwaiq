@@ -3,18 +3,18 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="team photos/فيصل بن فلاح الهرف.JPG" width="150" style="border-radius: 50%;"><br>
+      <img src="team-photos/faisal_alharf.jpg" width="150" style="border-radius: 50%;"><br>
       <b>فيصل فلاح الهرف</b><br>
       <a href="https://github.com/xmn3">@xmn3</a><br><br>
-      <b>العمر:</b> [16] سنة<br>
+      <b>العمر:</b> [عمرك] سنة<br>
       <b>الدور في الفريق:</b> مبرمج رئيسي<br>
       <b>الخبرات:</b> مهتم ببرمجة الروبوتات بلغة C++، وتطوير الخوارزميات لحل المشكلات بدقة وكفاءة.
     </td>
     <td align="center" width="50%">
-      <img src="team photos/زياد خالد الشهراني.jpg" width="150" style="border-radius: 50%;"><br>
+      <img src="team-photos/ziad_alshahrani.jpg" width="150" style="border-radius: 50%;"><br>
       <b>زياد خالد الشهراني</b><br>
       <a href="https://github.com/zeyad-khalid-alshahrani">@zeyad-khalid-alshahrani</a><br><br>
-      <b>العمر:</b> [16] سنة<br>
+      <b>العمر:</b> [عمر زياد] سنة<br>
       <b>الدور في الفريق:</b> مهندس تصميم وميكانيكا<br>
       <b>الخبرات:</b> تصميم وبناء هياكل الروبوتات، والتعامل مع القطع الميكانيكية لضمان استقرار وسرعة الأداء.
     </td>
